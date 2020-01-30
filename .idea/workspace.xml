@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="826698ea-83e7-4487-a356-2a1511a560f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/BatchSMSByNikesh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BatchSMS.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UEZht0n99LEOJ8rEeSQ3QH6khu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.BatchSMSByNikesh">
+    <configuration name="BatchSMS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BatchSMS" />
+      <module name="BatchSMSDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatchSMS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BatchSMS" />
+      <module name="BatchSMSDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BatchSMSByNikesh" />
+        <item itemvalue="Application.BatchSMS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="826698ea-83e7-4487-a356-2a1511a560f0" name="Default Changelist" comment="" />
+      <created>1574923837510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574923837510</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added Git Check in IntelliJ">
+      <created>1575720344071</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575720344071</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Git Check in IntelliJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Git Check in IntelliJ" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="37" key="CommitChangelistDialog2" timestamp="1575720373272">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="283" y="37" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1575720373272" />
+    <state width="1358" height="229" key="GridCell.Tab.0.bottom" timestamp="1575721979135">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="229" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1575721979135" />
+    <state width="1358" height="229" key="GridCell.Tab.0.center" timestamp="1575721979134">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="229" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1575721979134" />
+    <state width="1358" height="229" key="GridCell.Tab.0.left" timestamp="1575721979133">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="229" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1575721979133" />
+    <state width="1358" height="229" key="GridCell.Tab.0.right" timestamp="1575721979134">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="229" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1575721979134" />
+    <state x="308" y="176" key="IDE.errors.dialog" timestamp="1575720568662">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="308" y="176" key="IDE.errors.dialog/0.23.1440.822@0.23.1440.822" timestamp="1575720568662" />
+    <state x="221" y="73" key="SettingsEditor" timestamp="1575720257259">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="221" y="73" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1575720257259" />
+    <state x="120" y="143" width="1200" height="582" key="ShowDiffWithBranchDialog" timestamp="1575720183776">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="120" y="143" width="1200" height="582" key="ShowDiffWithBranchDialog/0.23.1440.822@0.23.1440.822" timestamp="1575720183776" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1575720596089">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1575720596089" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1580354396123">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1575719836189" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1580354396123" />
+    <state x="503" y="358" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575720272681">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="503" y="358" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.822@0.23.1440.822" timestamp="1575720272681" />
+    <state x="450" y="353" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1575720618839">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="450" y="353" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.822@0.23.1440.822" timestamp="1575720618839" />
+  </component>
+</project>
